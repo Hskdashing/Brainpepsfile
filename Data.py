@@ -6,24 +6,24 @@ from pyrogram.types import InlineKeyboardButton
 
 class Data:
     HELP = """
-<b> ❏ Perintah untuk Pengguna BOT
- ├ /start - Mulai Bot
- ├ /about - Tentang Bot ini
- ├ /help - Bantuan Perintah Bot ini
- ├ /ping - Untuk mengecek bot hidup
- └ /uptime - Untuk melihat status bot 
+<b> ❏ How to use this boat
+ ├ /start - start Bot
+ ├ /about - about this bot
+ ├ /help - help this Bot 
+ ├ /ping - to check live bots
+ └ /uptime - to see status 
  
- ❏ Perintah Untuk Admin BOT
- ├ /logs - Untuk melihat logs bot
- ├ /setvar - Untuk mengatur var dengan command dibot
- ├ /delvar - Untuk menghapus var dengan command dibot
- ├ /getvar - Untuk melihat salah satu var dengan command dibot
- ├ /users - Untuk melihat statistik pengguna bot
- ├ /batch - Untuk membuat link lebih dari satu file
- ├ /speedtest - Untuk Mengetes kecepatan server bot
- └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
+ ❏ Commands for BOT Admin
+ ├ /logs - to view bot logs
+ ├ /setvar - to set var with command dibotted
+ ├ /delvar - delvar-to delete a var with a bot command
+ ├ /getvar - to view one of the VARs with the command dibotted
+ ├ /users - to view bot User Statistics
+ ├ /batch - batch-to link more than one file
+ ├ /speedtest - to test the speed of the bot server
+ └ /broadcast - to send a broadcast message to the bot user
 
-👨‍💻 Develoved by </b><a href='https://t.me/Lunatic0de/101'>@Lunatic0de</a>
+👨‍💻 Develoved by </b><a href='https://t.me/@Zblivebot/101'>@Zblivebot</a>
 """
 
     close = [
@@ -51,7 +51,7 @@ class Data:
 
  • Creator: @{}
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
- • Source Code: <a href='https://github.com/mrismanaziz/File-Sharing-Man'>File-Sharing-Man v4</a>
+ • Source Code: <a href='lun</a>
 
-👨‍💻 Develoved by </b><a href='https://t.me/Lunatic0de/101'>@Lunatic0de</a>
+👨‍💻 Develoved by </b><a href='https://t.me/@Zblivebot/101'>@Zblivebot</a>
 """
