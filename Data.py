@@ -23,24 +23,24 @@ class Data:
  ├ /speedtest - to test the speed of the bot server
  └ /broadcast - to send a broadcast message to the bot user
 
-👨‍💻 Develoved by </b><a href='https://t.me/@Zblivebot/101'>@Zblivebot</a>
+👨‍💻 Develoved by </b><a href='https://t.me/@Zblivebot'>@Zblivebot</a>
 """
 
     close = [
-        [InlineKeyboardButton("ᴛᴜᴛᴜᴘ", callback_data="close")]
+        [InlineKeyboardButton("close", callback_data="close")]
     ]
 
     mbuttons = [
         [
             InlineKeyboardButton("ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="help"),
-            InlineKeyboardButton("ᴛᴜᴛᴜᴘ", callback_data="close")
+            InlineKeyboardButton("close", callback_data="close")
         ],
     ]
 
     buttons = [
         [
-            InlineKeyboardButton("ᴛᴇɴᴛᴀɴɢ sᴀʏᴀ", callback_data="about"),
-            InlineKeyboardButton("ᴛᴜᴛᴜᴘ", callback_data="close")
+            InlineKeyboardButton("about me", callback_data="about"),
+            InlineKeyboardButton("close", callback_data="close")
         ],
     ]
 
@@ -51,7 +51,7 @@ class Data:
 
  • Creator: @{}
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
- • Source Code: <a href='lun</a>
+ • Source Code: <a href='https://t.me/@Zblivebot</a>
 
-👨‍💻 Develoved by </b><a href='https://t.me/@Zblivebot/101'>@Zblivebot</a>
+👨‍💻 Develoved by </b><a href='https://t.me/@Zblivebot'>@Zblivebot</a>
 """
