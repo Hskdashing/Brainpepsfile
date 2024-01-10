@@ -1,5 +1,5 @@
 # Credits: @hskdashing
-# FROM File-Sharing-Man <https://github.com/mrismanaziz/File-Sharing-Man/>
+# FROM File-Sharing-Man <https://github.com/Hskdashing/File-Sharinghsk/>
 # t.me/hskdashing & t.me/hskdashing
 
 from pyrogram.types import InlineKeyboardButton
