@@ -1,5 +1,5 @@
 # Credits: @mrismanaziz
-# FROM File-Sharing-Man <https://github.com/mrismanaziz/File-Sharing-Man/>
+# FROM File-Sharing-Man <https://github.com/Hskdashing/Brainpepsfile/>
 # t.me/SharingUserbot & t.me/Lunatic0de
 
 import os
